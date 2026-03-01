@@ -1,3 +1,11 @@
+# Obsidian Metadata (IMPORTANTE)
+.obsidian/
+.trash/
+
+# Archivos de Sistema
+.DS_Store
+Thumbs.db
+
 # Logs
 logs
 *.log
