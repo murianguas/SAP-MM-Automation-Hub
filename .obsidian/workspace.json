@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Automation-n8n/01-Gmail-Cleaning-Workflow.md.md",
+                "file": "docs/03-Logs-Troubleshooting/01-Gems-Creation-Process.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Gmail-Cleaning-Workflow.md"
+              "title": "01-Gems-Creation-Process.md"
             }
           }
         ]
@@ -183,21 +183,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7edc47de8ec0983a",
+  "active": "320311a7c7f735cf",
   "lastOpenFiles": [
-    "Pasted image 20260302121223.png",
-    "Logs-Troubleshooting/Sin título.md",
-    "02-Automation-n8n/01-Gmail-Cleaning-Workflow.md.md",
-    "Logs-Troubleshooting/01-Gems-Creation-Process.md.md",
-    "Logs-Troubleshooting/00-Environment-Setup.md.md",
-    "Sin título.md",
-    "01-SAP-MM-Core/MARA_Mapping.md",
-    "Sin nombre",
-    "Logs-Troubleshooting/Sin nombre",
+    "assets/proceso inventario SAP.md",
+    "assets/ts452-I-T7-Inventario.png",
+    "docs/01-SAP-MM-Core/MARA_Mapping.md",
+    "docs/01-SAP-MM-Core",
+    "docs/Logs-Troubleshooting/Sin título.md",
+    "01-SAP-MM-Core",
+    "docs/03-Logs-Troubleshooting/01-Gems-Creation-Process.md.md",
+    "docs/03-Logs-Troubleshooting/00-Environment-Setup.md.md",
     "README.md",
-    "Logs-Troubleshooting",
+    "docs/02-Automation-n8n/01-Gmail-Cleaning-Workflow.md.md",
+    "assets",
+    "docs",
+    "Pasted image 20260302121223.png",
+    "Sin título.md",
+    "Logs-Troubleshooting/Sin nombre",
+    "docs/03-Logs-Troubleshooting",
     "03-SD-Integration",
-    "02-Automation-n8n",
+    "docs/02-Automation-n8n",
     "01-SAP-MM-Core/Sin nombre",
     "01-SAP-MM-Core"
   ]
